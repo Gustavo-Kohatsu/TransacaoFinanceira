@@ -1,0 +1,14 @@
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\bin\Debug\net9.0\TransacaoFinanceira.Main.exe
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\bin\Debug\net9.0\TransacaoFinanceira.Main.deps.json
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\bin\Debug\net9.0\TransacaoFinanceira.Main.runtimeconfig.json
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\bin\Debug\net9.0\TransacaoFinanceira.Main.dll
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\bin\Debug\net9.0\TransacaoFinanceira.Main.pdb
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.AssemblyInfoInputs.cache
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.AssemblyInfo.cs
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.dll
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\refint\TransacaoFinanceira.Main.dll
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.pdb
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\TransacaoFinanceira.Main.genruntimeconfig.cache
+C:\Users\Gustavo Kohatsu\Desktop\REFACT\TransacaoFinanceira\TransacaoFinanceira\obj\Debug\net9.0\ref\TransacaoFinanceira.Main.dll
