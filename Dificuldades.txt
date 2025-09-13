@@ -1,0 +1,11 @@
+# Dificuldades
+Case para refatoração
+
+Dificuldades que encontrei:
+1. Entender a diferença de C# / .NET para Java, que é a linguagem que mais utilizo.
+2. Entender como era utilizado no C# o padrão de nomenclatura para atributos, métodos, classes, parâmetros e variáveis em tempo de execução.
+3. Classes com mais de uma responsabilidade.
+4. Encontrar as binds que utilizo no VSCode aqui no Visual Studio.
+5. Nomes de classes e métodos confusos ou que não condiziam com o que realmente faziam. (Exemplo: Classe com nome: "executarTransacaoFinanceira").
+6. Entender porque algumas transações estavam sendo canceladas mesmo com saldo positivo e outras sem saldo sendo efetivadas. (Devido ao paralelismo e falta de controle de concorrência)
+7. Conseguir juntar o projeto principal com o projeto de testes (erros com NuGet - não importava corretamente)
